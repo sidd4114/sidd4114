@@ -1,58 +1,16 @@
 <h1 align="center">Hi 👋, I'm Siddhen Pise</h1>
-<h3 align="center">A Computer Engineering student from India, passionate about building software-driven solutions for real-world problems.</h3>
+<h3 align="center">A curious Computer Engineering student who loves building real-world systems with code and creativity.</h3>
 
----
+- 🌱 I’m currently learning **Full Stack Development**
 
-### 🌱 I’m currently learning
-- Full Stack Development (MERN Stack)
-- Frontend Animations (GSAP, Framer Motion)
-- Real-time Systems & Scalable Web Apps
+- 📫 How to reach me **siddhenpise11@gmail.com**
 
----
-
-### 📫 How to reach me
-- 📧 Email: **siddhenpise11@gmail.com**
-- 🌐 Portfolio: *Coming soon...*
-
----
-
-### 🤝 Connect with me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/siddhenpise" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://leetcode.com/u/siddhenpise10/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="30"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/siddhenkoyt/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GFG" height="30"/>
-  </a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/siddhenpise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/siddhenpise" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/siddhenpise10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/siddhenpise10/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/siddhenkoyt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/siddhenkoyt/" height="30" width="40" /></a>
 </p>
 
----
-
-### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,express,mongodb,mysql,firebase,python,c,figma,aws" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhenp&show_icons=true&theme=radical" alt="Siddhen's GitHub stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhenp&theme=radical" alt="GitHub Streak" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhenp&layout=compact&theme=radical" width="47%"/>
-</p>
-
----
-
-### ⚡ Fun Fact
-I built a full RC car at home with brushless motors, servos, and wireless control. I also solder better than your average YouTuber 😎
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>

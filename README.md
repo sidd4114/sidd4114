@@ -3,7 +3,11 @@
 
 ---
 
-- 🌱 I’m currently learning **Full Stack Development** and **DSA**
+- 🌱 I’m currently learning:
+  - **Full Stack Development**
+  - **DSA**
+
+- 🔧 Check out my latest project: [Campus Craves 🍽️](https://github.com/sidd4114/CampusCraves) — a smart food ordering & canteen management system built for college life.
 
 - 📫 How to reach me **siddhenpise11@gmail.com**
 

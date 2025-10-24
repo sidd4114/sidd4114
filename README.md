@@ -1,6 +1,6 @@
 <!-- ⚡ Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siddhen+Pise;Computer+Engineering+Student;Full+Stack+%26+AI+Enthusiast;Builder+%7C+Creator+%7C+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siddhen+Pise;Code.+Learn.+Build.+Repeat.;AI+%26+Full+Stack+Developer;Creator+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A curious Computer Engineering student who loves building real-world systems with code and creativity.</h3>
@@ -19,9 +19,8 @@
 <!-- 💫 Developer / ML Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FC4C02?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv" />
 </p>
 
 - 🔧 Check out my latest project: [Campus Craves 🍽️](https://github.com/sidd4114/CampusCraves) — a smart food ordering & canteen management system built for college life.

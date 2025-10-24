@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Siddhen Pise</h1>
+<!-- ⚡ Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siddhen+Pise;Computer+Engineering+Student;Full+Stack+%26+AI+Enthusiast;Builder+%7C+Creator+%7C+Learner" alt="Typing SVG" />
+</p>
+
 <h3 align="center">A curious Computer Engineering student who loves building real-world systems with code and creativity.</h3>
 
----
+<!-- 🌌 Gradient Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 - 🌱 I’m currently learning:
   - **Full Stack Development (MERN)**
@@ -9,13 +16,24 @@
   - **Machine Learning & Deep Learning**
   - **PyTorch**
 
+<!-- 💫 Developer / ML Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FC4C02?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv" />
+</p>
+
 - 🔧 Check out my latest project: [Campus Craves 🍽️](https://github.com/sidd4114/CampusCraves) — a smart food ordering & canteen management system built for college life.
 
 - 🤖 I’m fascinated by **AI systems that learn and adapt**, and love exploring ways to blend creativity with logic.
 
 - 📫 How to reach me **siddhenpise11@gmail.com**
 
----
+<!-- 🌌 Gradient Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -31,7 +49,10 @@
   </a>
 </p>
 
----
+<!-- 🌌 Gradient Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -50,9 +71,21 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
 </p>
 
----
+<!-- 🌌 Gradient Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidd4114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd4114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
 </div>
+
+<!-- 🌌 Gradient Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<p align="center">
+  <em>"Stay curious. Keep building. Everything will be good."</em> 🌱
+</p>

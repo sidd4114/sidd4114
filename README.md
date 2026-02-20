@@ -1,90 +1,86 @@
-<!-- ⚡ Typing Animation Header -->
+<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siddhen+Pise;Code.+Learn.+Build.+Repeat.;AI+%26+Full+Stack+Developer;Creator+%7C+Problem+Solver" alt="Typing SVG" />
-</p>
-
-<h3 align="center">A curious Computer Engineering student who loves building real-world systems with code and creativity.</h3>
-
-<!-- 🌌 Gradient Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-- 🌱 I’m currently learning:
-  - **Full Stack Development (MERN)**
-  - **Data Structures & Algorithms (DSA)**
-  - **Machine Learning & Deep Learning**
-  - **PyTorch**
-
-<!-- 💫 Developer / ML Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
-</p>
-
-- 🔧 Check out my latest project: [Campus Craves 🍽️](https://github.com/sidd4114/CampusCraves) — a smart food ordering & canteen management system built for college life.
-
-- 🤖 I’m fascinated by **AI systems that learn and adapt**, and love exploring ways to blend creativity with logic.
-
-- 📫 How to reach me **siddhenpise11@gmail.com**
-
-<!-- 🌌 Gradient Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/siddhenpise" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/siddhenpise10/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/siddhenkoyt/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-</p>
-
-<!-- 🌌 Gradient Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-</p>
-
-<!-- 🌌 Gradient Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidd4114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidd4114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
-</div>
-
-<!-- 🌌 Gradient Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siddhen+Pise;Code.+Learn.+Build.+Repeat.;AI+%26+Web+Developer;Creator+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <em>"Stay curious. Keep building. Everything will be good."</em> 🌱
+  A curious Computer Engineering student who loves building real-world systems with code and creativity.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/siddhenpise"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/siddhenpise10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/siddhenkoyt/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:siddhenpise11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+### 🎯 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-00C4FF?style=flat-square&logo=leetcode&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+### 💼 Experience
+
+**Optiqo – Fintech Startup (Remote) &nbsp;·&nbsp; Web Developer Intern** &nbsp; ![](https://img.shields.io/badge/Jun%202025–Aug%202025-555555?style=flat-square)
+
+- Developed responsive fintech interfaces using **Next.js** and **shadcn/ui**
+- Integrated **AWS Cognito** for authentication, Lambda functions, and SNS notifications
+- Collaborated across frontend and backend to deliver production features in a fintech environment
+
+<br/>
+
+**Fr. C. Rodrigues Institute of Technology &nbsp;·&nbsp; Deep Learning Intern** &nbsp; ![](https://img.shields.io/badge/Ongoing-2ea043?style=flat-square)
+
+- Building DL pipelines for knee (MRI) and hip (X-ray) implant templating (TKA/THA)
+- Benchmarking bone segmentation models on public medical imaging datasets
+- Extracting anatomical landmarks for surgical axis and implant sizing
+
+<br/>
+
+**Fr. C. Rodrigues Institute of Technology &nbsp;·&nbsp; Web Developer Intern *(Computer Dept.)*** &nbsp; ![](https://img.shields.io/badge/Ongoing-2ea043?style=flat-square)
+
+- Helping in revamping the department's IMS (Institute Management System) site
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+### 🔧 Projects
+
+**FPGA Solder Joint Lifetime Prediction** &nbsp; ![](https://img.shields.io/badge/Ongoing-2ea043?style=flat-square)
+
+- Real-time fault detection using **FPGA + LSTM** to predict solder joint failure lifetime for electronic assemblies
+- **Tech:** FPGA, Python, PyTorch &nbsp;·&nbsp; **Impact:** Predictive maintenance, reduced testing time
+
+<br/>
+
+**Campus Craves – Online Canteen Ordering System** &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sidd4114/CampusCraves)
+
+- Full-stack ordering platform that eliminates queues via pre-orders, online payments, and dynamic menu management
+- **Tech:** React, Node.js, Firebase &nbsp;·&nbsp; **Impact:** Reduced wait time & queues, scalable canteen operations
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nextjs,nodejs,html,css,firebase,mysql,aws,pytorch,figma&theme=dark" />
+</p>
+
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+<p align="center">
+  <em>"Stay curious. Keep building. Everything will be good."</em>
 </p>

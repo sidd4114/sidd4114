@@ -1,11 +1,8 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siddhen+Pise;Code.+Learn.+Build.+Repeat.;AI+%26+Web+Developer;Creator+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siddhen+Pise;No+niche+yet%2C+just+a+pattern;Find+a+problem.+Learn+it.+Ship+it." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  I don't have a niche yet. I have a pattern: find a problem, learn whatever it takes, ship something.
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/siddhenpise"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  A curious Computer Engineering student who loves building real-world systems with code and creativity.
+  I don't have a niche yet. I have a pattern: find a problem, learn whatever it takes, ship something.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   &nbsp;
   <a href="https://leetcode.com/siddhenpise10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/siddhenkoyt/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/siddhenkoyt?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:siddhenpise11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -41,22 +41,16 @@
 
 <br/>
 
-**Fr. C. Rodrigues Institute of Technology &nbsp;·&nbsp; Deep Learning Intern** &nbsp; ![](https://img.shields.io/badge/Ongoing-2ea043?style=flat-square)
-
-- Building DL pipelines for knee (MRI) and hip (X-ray) implant templating (TKA/THA)
-- Benchmarking bone segmentation models on public medical imaging datasets
-- Extracting anatomical landmarks for surgical axis and implant sizing
-
-<br/>
-
 **4D Coronary Centerline Extraction from Cine Angiography &nbsp;·&nbsp; Research Intern** &nbsp; ![](https://img.shields.io/badge/Ongoing-2ea043?style=flat-square)
 
 - Developing an end-to-end pipeline for quantitative analysis of coronary angiography sequences, focusing on vascular geometry, temporal motion, and contrast dynamics
 - Building robust medical image processing workflows for vessel segmentation, centerline extraction, diameter estimation, and visualization using **Python** and **OpenCV**
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
 ### 🔧 Projects
 
-**FPGA Solder Joint Lifetime Prediction** &nbsp; 
+**FPGA Solder Joint Lifetime Prediction**
 
 - Real-time fault detection using **FPGA + LSTM** to predict solder joint failure lifetime for electronic assemblies
 - **Tech:** FPGA, Python, PyTorch &nbsp;·&nbsp; **Impact:** Predictive maintenance, reduced testing time
@@ -75,8 +69,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nextjs,nodejs,html,css,firebase,mysql,aws,pytorch,figma&theme=dark" />
 </p>
-
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 

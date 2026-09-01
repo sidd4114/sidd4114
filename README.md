@@ -49,22 +49,21 @@
 
 <br/>
 
-**Fr. C. Rodrigues Institute of Technology &nbsp;·&nbsp; Web Developer Intern *(Computer Dept.)*** &nbsp; ![](https://img.shields.io/badge/Ongoing-2ea043?style=flat-square)
+**4D Coronary Centerline Extraction from Cine Angiography &nbsp;·&nbsp; Research Intern** &nbsp; ![](https://img.shields.io/badge/Ongoing-2ea043?style=flat-square)
 
-- Helping in revamping the department's IMS (Institute Management System) site
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+- Developing an end-to-end pipeline for quantitative analysis of coronary angiography sequences, focusing on vascular geometry, temporal motion, and contrast dynamics
+- Building robust medical image processing workflows for vessel segmentation, centerline extraction, diameter estimation, and visualization using **Python** and **OpenCV**
 
 ### 🔧 Projects
 
-**FPGA Solder Joint Lifetime Prediction** &nbsp; ![](https://img.shields.io/badge/Ongoing-2ea043?style=flat-square)
+**FPGA Solder Joint Lifetime Prediction** &nbsp; 
 
 - Real-time fault detection using **FPGA + LSTM** to predict solder joint failure lifetime for electronic assemblies
 - **Tech:** FPGA, Python, PyTorch &nbsp;·&nbsp; **Impact:** Predictive maintenance, reduced testing time
 
 <br/>
 
-**Campus Craves – Online Canteen Ordering System** &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sidd4114/CampusCraves)
+**Campus Craves – Online Canteen Ordering System** &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sidd4114/CampusCraves) &nbsp; [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://campuscraves.vercel.app/)
 
 - Full-stack ordering platform that eliminates queues via pre-orders, online payments, and dynamic menu management
 - **Tech:** React, Node.js, Firebase &nbsp;·&nbsp; **Impact:** Reduced wait time & queues, scalable canteen operations
